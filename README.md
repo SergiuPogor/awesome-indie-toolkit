@@ -178,6 +178,7 @@ Pick your weapons. These frameworks and tools form the foundation of modern indi
 | [Lovable](https://lovable.dev/) | Build apps and websites by chatting with AI |
 | [Framer](https://www.framer.com/) | Professional website design and prototyping |
 | [Figma](https://www.figma.com/) | Collaborative interface design tool |
+| [AppScreen](https://appscreen.pro/) | Browser editor for App Store and Google Play screenshots (free tier, Pro is a one-time purchase) |
 
 ---
 
